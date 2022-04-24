@@ -6,7 +6,7 @@
 
 - docker  restart apiContainer
 
-## COMANDO TYPEORM para criar as migrations
+## COMANDO TYPEORM para criar as migrations ATENÇÃO VER OS ARQUIVOS(src/database/migrations) ANTES DE CRIAR A MIGRATION SE FOR NECESSARIO CRIAR
 
 - yarn typeorm migration:create -n CreateCategories
 
