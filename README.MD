@@ -21,7 +21,7 @@
 
 - yarn typeorm migration:revert
 
-## USANDO a api por contrato SWEGGER OPEN API
+## USANDO a api por contrato SWAGGER OPEN API
 
 - Acesse http://localhost:3333/api-docs
 
