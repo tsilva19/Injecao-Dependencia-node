@@ -25,6 +25,8 @@
 
 - Acesse http://localhost:3333/api-docs
 
+![alt text](https://github.com/tsilva19/Injecao-Dependencia-node/blob/main/injetadependencia.png)
+
 ## USANDO no postman
 
 - Acesse GET E POST http://localhost:3333/categories
