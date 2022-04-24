@@ -29,6 +29,8 @@
 
 - Acesse GET E POST http://localhost:3333/categories
 
+- Acesse IMPORTAR VIA ARQUIVO use a opção multiformdata pra inserir arquivo csv de exemplos: arquivo.csv e sweeger.csv via POST http://localhost:3333/categories/import
+
 - Acesse GET E POST http://localhost:3333/specifications
 
 
